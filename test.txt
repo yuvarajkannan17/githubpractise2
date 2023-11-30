@@ -1,0 +1,10 @@
+
+git clone origin address - for clone from github
+git add . - for adding file 
+git status - for knowing about current status
+git commit -m "message" - from local to github folder
+git push origin main - pushing code from local to github
+git pull - code from gitup to local 
+git init - create repository in local
+git branch- knowing about the branch name
+git branch -m branchname - navigate to one branch to another and etc.
