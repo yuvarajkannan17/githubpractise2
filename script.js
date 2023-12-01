@@ -1,5 +1,8 @@
 function add(){
-let a=10;
+
+
+  let a=null;
+
 }
 
 add();
