@@ -9,3 +9,4 @@ git init - create repository in local
 git branch- knowing about the branch name
 git branch -m branchname - navigate to one branch to another
 git remote add origin origin address - for connecting local to githup respository before push the code and etc.
+something
