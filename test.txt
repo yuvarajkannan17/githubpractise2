@@ -7,4 +7,5 @@ git push origin main - pushing code from local to github
 git pull - code from gitup to local 
 git init - create repository in local
 git branch- knowing about the branch name
-git branch -m branchname - navigate to one branch to another and etc.
+git branch -m branchname - navigate to one branch to another
+git remote add origin origin address - for connecting local to githup respository before push the code and etc.
